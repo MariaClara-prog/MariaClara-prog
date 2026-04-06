@@ -1,7 +1,7 @@
 # Olá, eu sou a Maria Clara 👋  
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas (UNISANTA)  
-🖥️ Técnica em Informática (em andamento) – foco em Suporte e Infraestrutura  
+🖥️ Técnica em Informática - em andamento (ETEC) – foco em Suporte e Infraestrutura  
 💻 Estudando Python e Desenvolvimento Front-End  
 🌎 Aprimorando meu Inglês, em busca da fluência 
 
